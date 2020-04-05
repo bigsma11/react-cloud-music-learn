@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-cloud-music-learn/static/js/main.3b3f01fc.chunk.js",
-    "main.js.map": "/react-cloud-music-learn/static/js/main.3b3f01fc.chunk.js.map",
+    "main.js": "/react-cloud-music-learn/static/js/main.196a2370.chunk.js",
+    "main.js.map": "/react-cloud-music-learn/static/js/main.196a2370.chunk.js.map",
     "runtime-main.js": "/react-cloud-music-learn/static/js/runtime-main.02a697f7.js",
     "runtime-main.js.map": "/react-cloud-music-learn/static/js/runtime-main.02a697f7.js.map",
-    "static/js/2.b4c69fd4.chunk.js": "/react-cloud-music-learn/static/js/2.b4c69fd4.chunk.js",
-    "static/js/2.b4c69fd4.chunk.js.map": "/react-cloud-music-learn/static/js/2.b4c69fd4.chunk.js.map",
+    "static/js/2.5aa19cfd.chunk.js": "/react-cloud-music-learn/static/js/2.5aa19cfd.chunk.js",
+    "static/js/2.5aa19cfd.chunk.js.map": "/react-cloud-music-learn/static/js/2.5aa19cfd.chunk.js.map",
     "index.html": "/react-cloud-music-learn/index.html",
-    "precache-manifest.40211cafc941a49c102c5ad63004e0f3.js": "/react-cloud-music-learn/precache-manifest.40211cafc941a49c102c5ad63004e0f3.js",
+    "precache-manifest.39fa48573c9a982e552cdc3b790e7e2d.js": "/react-cloud-music-learn/precache-manifest.39fa48573c9a982e552cdc3b790e7e2d.js",
     "service-worker.js": "/react-cloud-music-learn/service-worker.js",
-    "static/js/2.b4c69fd4.chunk.js.LICENSE.txt": "/react-cloud-music-learn/static/js/2.b4c69fd4.chunk.js.LICENSE.txt"
+    "static/js/2.5aa19cfd.chunk.js.LICENSE.txt": "/react-cloud-music-learn/static/js/2.5aa19cfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02a697f7.js",
-    "static/js/2.b4c69fd4.chunk.js",
-    "static/js/main.3b3f01fc.chunk.js"
+    "static/js/2.5aa19cfd.chunk.js",
+    "static/js/main.196a2370.chunk.js"
   ]
 }
